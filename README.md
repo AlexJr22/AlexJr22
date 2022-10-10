@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlexJr22
+- 👀 I’m interested in: become a developer
+- 🌱 I’m currently learning: React, TypeScript and Github
+- 📫 How to reach me: https://www.linkedin.com/in/alex-junior-084231253/
