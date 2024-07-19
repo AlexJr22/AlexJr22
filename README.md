@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexJr22
 - 👀 I’m interested in: become a developer
-- 🌱 I’m currently learning: React, TypeScript and Github
+- 🌱 I’m currently learning: C# and DotNet
 - 📫 How to reach me: https://www.linkedin.com/in/alex-junior-084231253/
 
 <div align="center">
